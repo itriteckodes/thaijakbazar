@@ -19,9 +19,9 @@ class SetLanguage
      */
     public function handle(Request $request, Closure $next)
     {
-        Session::put('country_id', 1);
-        Session::put('currency_name', 'PKR');
-        Session::put('currency_symbol', 'pkr');
+        Session::put('country_id', 2);
+        Session::put('currency_name', 'THB');
+        Session::put('currency_symbol', 'thb');
         return $next($request);
     }
 }

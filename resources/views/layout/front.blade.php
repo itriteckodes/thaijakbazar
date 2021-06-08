@@ -65,7 +65,7 @@
                 <div class="col-lg-6 col-md-4">
                     <div class="top-left d-flex">
                         <div class="lang-box">
-                            <span>Pakistan</span>
+                            <span>Thailand</span>
                                 {{-- <ul class="list-unstyled">
                                     <a href="{{route('front.language',1)}}"><li>Pakistan</li></a>
                                     <a href="{{route('front.language',2)}}"><li>Thailand</li></a>
