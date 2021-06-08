@@ -1,0 +1,13 @@
+@media print {
+    html{
+        -webkit-print-color-adjust: exact;
+    }
+
+    .myFont{
+        font-weight: bolder;
+    }
+    #hide1{
+        border-left-style: hidden !important;
+        border-bottom-style: hidden !important;
+    }
+}
